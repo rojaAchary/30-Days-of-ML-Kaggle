@@ -29,6 +29,7 @@ The program starts Monday, August 2, and lasts four weeks. It's designed for peo
 |05|Lists and Loops & List Comprehensions|[Day_05_Link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/5-Day-Lists-and-Loops-and-List-Comprehensions)|
 |06|Strings and Dictioniaries|[Day_06_Link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/6-Day-Strings-and-Dictionaries)|
 |07|Working with External Libraries|[Day_07_Link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/7-Day-Working-with-External-Libraries)|
+|08|Model-Work & Basic-Data-Exploration|[Day 08_Link]()|
 
 # 📌 Week 2 Work in Progress 🚧
 
