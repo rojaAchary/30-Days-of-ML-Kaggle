@@ -33,7 +33,7 @@ The program starts Monday, August 2, and lasts four weeks. It's designed for peo
 # 📌 Week 2 Work in Progress 🚧
 
 
-# Want to Stay Updated about the Program!!
+## Want to Stay Updated about the Program!!
 Fork 🍴 the repository 
  
 ## Learned Something  !!
