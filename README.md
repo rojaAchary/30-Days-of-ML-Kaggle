@@ -46,7 +46,7 @@ Give a 🌟 to support me 😊
  
 ```bibtex
 @misc{Charged Neuron,
-    author       = {Roja},
+    author       = {Roja Achary},
     title        = {30-Days-Of-ML-Kaggle},
     month        = {August},
     year         = {2021}
