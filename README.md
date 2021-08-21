@@ -36,6 +36,10 @@ The program starts Monday, August 2, and lasts four weeks. It's designed for peo
 |12|Introduction-to-Missing-values-&categorical-values|[Day 12 Link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/12-Introduction-to-Missing-values-%26categorical-values)|
 |13|Pipelines-&-Cross-validations|[Day 13 Link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/13-Pipelines-%26-Cross-validations)|
 |14|XGBoost-&-Data-validation|[Day 14 Link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/14-XGBoost-%26-Data-validation)|
+|15|15 Day Kaggle Competition|[Day_15_link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/15-Day-Kaggle-Competition)|
+|16|16 Day Kaggle Competition|[Day_16_link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/16-Day-Kaggle-Competition)|
+|17|17 Day Kaggle Competition|[Day_17_link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/17-Day-Kaggle-Competition)|
+
 
 
 ## Want to Stay Updated about the Program!!
