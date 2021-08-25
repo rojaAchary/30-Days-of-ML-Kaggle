@@ -39,8 +39,11 @@ The program starts Monday, August 2, and lasts four weeks. It's designed for peo
 |15|15 Day Kaggle Competition|[Day_15_link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/15-Day-Kaggle-Competition)|
 |16|16 Day Kaggle Competition|[Day_16_link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/16-Day-Kaggle-Competition)|
 |17|17 Day Kaggle Competition|[Day_17_link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/17-Day-Kaggle-Competition)|
+|18|18 Day Kaggle Competition|[Day_18_link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/18-Day-Kaggle-Competition-Automobile)|
+|19|19 Day Kaggle Competition|[Day_19_link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/19-Day-Kaggle-Competition)|
+|20|20 Day Kaggle Competition|[Day_20_link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/20-Day-Kaggle-Competition)|
 
-
+Update in progress... 
 
 ## Want to Stay Updated about the Program!!
 Fork 🍴 the repository 
