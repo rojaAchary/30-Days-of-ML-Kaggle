@@ -1,4 +1,4 @@
-# 30-Days-of-ML-Kaggle 🔥
+## 30-Days-of-ML-Kaggle 🔥
 
 ## About the Hands On Program 💻
 Machine learning beginner → Kaggle competitor in 30 days. Non-coders welcome
